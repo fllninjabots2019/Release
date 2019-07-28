@@ -8,4 +8,4 @@ Each group member has a folder(called a repository) that they have been given. T
 
 In the release folder, there will already be some folders which will be templates for everyone else. There is a source (src) folder, which will consist of the algorithms to solve each mission. For instance, if you look into the source folder in release, there should be a mission one and mission two folder. Each of these folders will eventually have an algorithm in it. These algorithms are like the blocks that we used in the mindstorms program, which will be the actual code.
 
-Then, there will be a module file
+Then, there will be a modules file which will (like said above) contain all the different functions and function calls. This like like gryo.h (the .h part similar to C) and how it calls the .c file .
